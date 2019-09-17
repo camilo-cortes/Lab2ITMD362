@@ -64,10 +64,6 @@ label {
   }
 
   .submit-button {
-    background-color: #0074D9;
-    width: 100px;
-    height: 30px;
-    display: inline-block;
     border-radius: 25px;
-
   }
+}
